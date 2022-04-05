@@ -1,4 +1,21 @@
+## Traffic Light with React
+
+In the realization of this project, the knowledge about the use of the onClick functionality was used.
+and the ternary operators to perform an interaction that would allow the action to be performed on the traffic lights. The code is executed with React using the useState function to store the state of the
+components, `<div>` tags for the containers that will shape the semaphore layout, and Css for the styles.
+
+Recommended websites for theme icons, images and tools:
+
+[-Google Fonts](https://fonts.google.com/).
+
+[-Fontawesome](https://fontawesome.com/).
+
+[-Bootstrap](https://getbootstrap.com/).
+
+----------------------------------------------------------------------------------------------------------------
+
 # Hello World with React boilerplate
+
 <p>
   <a href="https://gitpod.io#https://github.com/4GeeksAcademy/react-hello.git"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />
   </a>
